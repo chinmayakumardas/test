@@ -1,0 +1,29 @@
+[
+  {
+    "id": "personal-brand-system",
+    "title": "Personal Brand System",
+    "description": "A long-term identity website focused on creativity, trust, and performance.",
+    "year": 2025,
+    "featured": true,
+    "status": "active",
+    "tech": ["Next.js", "Tailwind", "Framer Motion"]
+  },
+  {
+    "id": "scroll-experiments",
+    "title": "Dimensional Scroll Experiments",
+    "description": "Exploring non-linear scrolling, motion, and spatial layouts.",
+    "year": 2024,
+    "featured": false,
+    "status": "ongoing",
+    "tech": ["CSS", "GSAP"]
+  },
+  {
+    "id": "design-system-lite",
+    "title": "Minimal Design System",
+    "description": "A lightweight component and typography system for fast prototyping.",
+    "year": 2024,
+    "featured": false,
+    "status": "paused",
+    "tech": ["TypeScript", "Tailwind"]
+  }
+]
